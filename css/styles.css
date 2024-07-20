@@ -1,0 +1,57 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: auto;
+    padding: 2em;
+}
+
+h1{
+    color: white;
+}
+
+h2{
+    color: white;
+}
+
+h3{
+    color: white;
+}
+
+h4{
+    color: white;
+}
+
+h5{
+    color: white;
+}
+.row{
+    padding: 1rem;
+}
+
+.barra{
+    background-color: #FF266E;
+}
+
+.cajaBorde1{
+    border-style: solid;
+    border-color: #FF266E;
+    height: 90vh;
+    width: 350px;
+}
+ 
+.cajaBorde2{
+    border-style: solid;
+    border-color: #FF266E;
+    height: 90vh;
+    width: 600px;
+}
+
+.cajaBorde3{
+    border-style: solid;
+    border-color: #FF266E;
+    height: 90vh;
+    width: 300px;
+}
+
